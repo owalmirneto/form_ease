@@ -1,0 +1,4 @@
+en:
+  form_ease:
+    enum:
+      select: "Selecione %{thing}"
